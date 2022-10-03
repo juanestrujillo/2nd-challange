@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
+header{
+  padding: 20px;
+  text-align: left;
+  background-color:lightgrey ;
+}
